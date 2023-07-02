@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on building RESTful APIs using the django rest framework.
 - 🌱 I’m currently learning Nodejs
-- 🤔 I’m looking for projects and collaborations that can challenge my ability as a developer and also help my grow.
+- 🤔 I’m looking for projects and collaborations that can challenge my ability as a developer and also help me grow.
 - 💬 Ask me about website development using Python and Django.
 - 📫 How to reach me: ebutejonah683@gmail.com
 - ⚡ Motto: Keep at it. It gets easier with time.
