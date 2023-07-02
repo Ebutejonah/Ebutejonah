@@ -2,6 +2,7 @@
 
 <!--
 **Ebutejonah/Ebutejonah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 
 
 - 🔭 I’m currently working on building RESTdful APIs using the django rest framework.
@@ -10,4 +11,3 @@
 - 💬 Ask me about website development using Python and Django.
 - 📫 How to reach me: ebutejonah683@gmail.com
 - ⚡ Motto: Keep at it. It gets easier with time.
--->
