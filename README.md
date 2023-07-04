@@ -1,9 +1,8 @@
-### Hi there 👋
+### Hi there 👋,
+#### Backend Engineering
+I'm Ebute Jonah from Nigeria, and I am a Backend Engineer. I really enjoy programming and my area of expertise is Python/Django. I am also skilled in HTML, CSS, and JavaScript. Here is a link to my portfolio website: https://www.jonahebute.com, my linkedin account: https://www.linkedin.com/in/jonah-ebute-142b1323a/ and twitter account: https://twitter.com/ebute_jonah246
 
-<!--
-**Ebutejonah/Ebutejonah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-I'm Ebute Jonah from Nigeria, and I am a Backend Engineer. I really enjoying programming and my area of expertise is Python/Django. I am also skilled in HTML, CSS, and JavaScript. Here is a link to my portfolio website: https://www.jonahebute.com, my linkedin account: https://www.linkedin.com/in/jonah-ebute-142b1323a/ and twitter account: https://twitter.com/ebute_jonah246
+Skills: PYTHON / DJANGO / HTML / CSS / JAVASCRIPT
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ebutejonah)](https://github.com/anuraghazra/github-readme-stats)
 
