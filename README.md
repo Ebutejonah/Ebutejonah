@@ -1,6 +1,6 @@
 ### Hi there 👋,
 #### Backend Engineer
-I'm Ebute Jonah from Nigeria, and I am a Backend Engineer and a Student of Alt School Africa. I really enjoy programming and my area of expertise is Python/Django. I am also skilled in HTML, CSS, and JavaScript. Here is a link to my portfolio website: https://www.jonahebute.com, my linkedin account: https://www.linkedin.com/in/jonah-ebute-142b1323a/ and twitter account: https://twitter.com/ebute_jonah246
+I'm Ebute Jonah from Nigeria, and I am a Backend Engineer. I really enjoy programming and my area of expertise is Python/Django. I am also skilled in HTML, CSS, and JavaScript. Here is a link to my portfolio website: https://www.jonahebute.com, my linkedin account: https://www.linkedin.com/in/jonah-ebute-142b1323a/ and twitter account: https://twitter.com/ebute_jonah246
 
 Skills: PYTHON / DJANGO / HTML / CSS / JAVASCRIPT
 
