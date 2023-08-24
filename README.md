@@ -8,7 +8,7 @@ Skills: PYTHON / DJANGO / HTML / CSS / JAVASCRIPT
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ebutejonah)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 I’m currently working on building RESTful APIs using the django rest framework.
-- 🌱 I’m currently learning Flask.
+- 🌱 I’m currently learning FastAPI.
 - 🤔 I’m looking for projects and collaborations that can challenge my ability as a developer and also help me grow.
 - 💬 Ask me about website development using Python and Django.
 - 📫 How to reach me: ebutejonah683@gmail.com
